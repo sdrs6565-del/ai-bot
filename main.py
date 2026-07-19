@@ -14,7 +14,7 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder
 from aiogram.fsm.storage.memory import MemoryStorage
 from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import StatesGroup, State
-from aiogram.utils.markdown import hbold, hcode, hitalic, hmono
+from aiogram.utils.markdown import hbold, hcode, hitalic
 from groq import Groq
 
 # =====================================================================
